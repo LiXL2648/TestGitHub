@@ -3,3 +3,4 @@ Testing Pushing
 Testing TestGitHub's pulling
 Testing conflict in YuCX
 Test comflict in TestGitHub
+add note
